@@ -6,7 +6,7 @@ This project is a simple voting application where users can vote for candidates 
 
 Installation and Setup
 1. Clone the repository
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/SunilNagam/Assignment1.git
 cd Assignment1
 
  Start the application
